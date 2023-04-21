@@ -1,4 +1,4 @@
-# Desafío 20: Reformar para usar otro framework
+# Desafío 20 : Reformar para usar otro framework
 
 - framework elegido es NestJS
 
